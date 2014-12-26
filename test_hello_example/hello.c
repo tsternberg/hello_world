@@ -24,7 +24,7 @@
  */
 Void main()
 {
-    LOG_printf(&trace, "hello world and Thomas!");
+    LOG_printf(&trace, "hello world and Thomas and family!");
 
     /* fall into DSP/BIOS idle loop */
     return;
